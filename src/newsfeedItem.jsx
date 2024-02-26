@@ -1,5 +1,3 @@
-import React from "react";
-
 const NewsfeedItem = ({ message }) => (
     <div className="newsfeed-item">
         <h1>@{message.username}</h1>
